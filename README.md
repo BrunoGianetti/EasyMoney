@@ -1,7 +1,7 @@
 # EasyMoney
 A simple program for a vending machine
 
->>> Men at work! <<<
+>>> Men at work! >>>
 
 
 Comming soon
